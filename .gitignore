@@ -1,0 +1,7 @@
+# 本地 SSH 代理配置（含本机端口，不入库）
+ssh_config
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
